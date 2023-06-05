@@ -1,4 +1,4 @@
-## E-Voting-System
+## Secured E-Voting-System with Unique ID generated to view your vote Analysis
 # E-Voting Application
 Just like we do vote physically, here you can do same activity virtually. This platform is made to make the task easy and save time. Here everything is done exactly like it is done in a traditional method but online.
 
